@@ -1,0 +1,36 @@
+.slika{
+    padding: 60px;
+    
+    background-color:white;
+    color: white;
+    text-align: center;
+     top: 10px;
+     left: 300px;
+     border: 3px solid black;
+     
+ }
+ ul {
+    width: 250px;
+    margin-right: 50px;
+    text-align: left;
+    position: relative;
+    
+    
+    top: 30;
+    right: 0;
+    padding: 30px;
+    text-align: left;
+    border: 3px solid black;
+    margin-top: 100px;
+}
+
+li a {
+    display: block;
+    padding: 10px 10px;
+
+}
+
+li a:hover {
+    background-color: black;
+    color:white;
+}
